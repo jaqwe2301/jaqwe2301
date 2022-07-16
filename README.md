@@ -9,14 +9,14 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/42240254/179361124-02a8044c-c1da-4369-91e8-3de7a230c0c5.gif"/></a></div>
 
 
-<div align="center"><h1>
+<div align="center"><h2>
   🥇 Tech Stack 🥇
-</h1></div>
+</h2></div>
 
 <div align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-F68212?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7A010?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61B0FB?style=flat-square&logo=React&logoColor=white"/></div>
 
-<div align="center"><h1>
+<div align="center"><h2>
   🎨 Design Stack 🎨
-</h1></div>
+</h2></div>
 
 <div align="center"><img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=Figma&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Illustrator-F76D00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Photoshop-3078FB?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></div>
