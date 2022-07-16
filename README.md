@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<div align="center">
-  ### Welcome, I'm Minhyeok😊
-</div>
+<div align="center"><h1>
+  ### Welcome, I'm Minhyeok 😊
+</h1></div>
 
 <!--
 **jaqwe2301/jaqwe2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
