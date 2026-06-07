@@ -1,10 +1,10 @@
-<div align="center"><h1>
+<div align="center"><h2>
   Welcome, I'm Min_Hyeok 😊
-</h1></div>
+</h2></div>
 
 <br/>
 
-<div align="center"><img height="70%" src="https://user-images.githubusercontent.com/42240254/179361124-02a8044c-c1da-4369-91e8-3de7a230c0c5.gif"/></a></div>
+<div align="center"><img height="60%" src="https://user-images.githubusercontent.com/42240254/179361124-02a8044c-c1da-4369-91e8-3de7a230c0c5.gif"/></a></div>
 
 
 <div align="center"><h2>
