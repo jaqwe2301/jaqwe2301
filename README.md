@@ -30,7 +30,7 @@ React와 TypeScript를 기반으로
 ## Career
 
 ### B2B2C SaaS Frontend Developer
-**2024.05 ~ 2025.08 · 프론트엔드 단독 개발**
+**2024.05 ~ 2025.09 · 프론트엔드 단독 개발**
 
 `TypeScript` `Next.js` `React` `TanStack Query` `Redux` `Tiptap` `Tailwind CSS`
 
